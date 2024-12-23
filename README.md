@@ -87,15 +87,15 @@ $ rosrun human_collaboration HumanCollaborationModule.py
 ![システム間のやりとり](https://github.com/Yukiya-Yamamoto/Human_Collaboration_Manipulation_System/assets/118329378/f7af74ba-4859-4642-815d-e2dd9168e4c4)
 
 本システム構成は以下の通りである
-![システム構成図](https://github.com/user-attachments/assets/c3d306f9-9727-4a5f-95e3-a2e6d1f7ddba)
+![SystemConfigurationDiagram](https://github.com/user-attachments/assets/a88580fe-4c0b-4733-a278-304a9d1bcb3e)
 
 
 # 仕様書との対応部分について
 本システムはエラー発生を含まない正常系の動作を実装したものになっている．一方，仕様書はエラーなどの異常系についても定義されているため，仕様書と本パッケージの対応関係について示す．
 仕様書と本パッケージの対応関係は，以下のアクティビティ図とステートマシン図のうち、赤枠で囲われた部分になっている．
 
-![人協働_アクティビティ図_適応範囲](https://github.com/user-attachments/assets/af25dda5-7102-46a4-9695-d40cc98d0c3a)
-![人協働_状態遷移図_対応応範囲](https://github.com/user-attachments/assets/54859ccc-d1d9-4602-81a3-fd5aa19ef5f4)
+![人協働_アクティビティ図_適応範囲](https://github.com/user-attachments/assets/fd4f8bbd-47fa-46cd-9175-69cde79096ff)
+![人協働_状態遷移図_対応範囲](https://github.com/user-attachments/assets/f9e4fb34-6ee6-4f9b-a928-b13e3a8e2511)
 
 # パッケージ概要
 各パッケージの機能以下の通りである．
