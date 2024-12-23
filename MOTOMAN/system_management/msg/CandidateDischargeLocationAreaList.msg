@@ -1,0 +1,1 @@
+CandidateDischargeLocationArea[] candidate_discharge_location_area_list
